@@ -1,3 +1,5 @@
-# abalint88-chrome_devtools_tark_theme_-_webstorm
+## abalint88
 
-Ivan Zuskos VS Code theme called "Jo's Chrome DevTools Dark Theme" rewrote for WebStorm
+#Chrome DevTools Dark theme - webstorm
+
+Ivan Zuskos VS Code theme called "Jo's Chrome DevTools Dark Theme" rewrote for WebStorm by Balint Apro
